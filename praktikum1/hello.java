@@ -8,7 +8,7 @@ public class hello {
         String hobi = "Nonton";
 
         // Output data diri
-        System.out.println("Hello nama saya"+ nama);
+        System.out.println("Hello nama saya "+ nama);
         System.out.println("Nama: " + nama);
         System.out.println("Umur: " + umur + " tahun");
         System.out.println("Alamat: " + alamat);
